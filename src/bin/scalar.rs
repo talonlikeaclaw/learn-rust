@@ -1,12 +1,10 @@
 #![allow(unused)]
 
-use std::{char, i32};
+// Scalar types
+// - single value
+// - building blocks for more complex types
 
 fn main() {
-    // Scalar types
-    // - single value
-    // - building blocks for more complex types
-
     // Integers
     //   Signed integers
     let i0: i8 = 0; // -128 ~ 127
